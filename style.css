@@ -1,0 +1,16 @@
+        h1 {
+            color: plum;
+            font-size: 300px;
+        }
+        
+        p {
+            color: plum;
+            font-size: 300px;
+        }
+        
+        .navbar {
+            display: flex;
+            margin: 30px;
+            padding: 20px;
+            color: blueviolet;
+        }
